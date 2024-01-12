@@ -1,0 +1,19 @@
+{
+  "name": "pop-above",
+  "version": "1.0.0",
+  "description": "pop_above is a tool to create a custom popup above anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccartheney/Pop-Above.git"
+  },
+  "author": "Mccartheney Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccartheney/Pop-Above/issues"
+  },
+  "homepage": "https://github.com/mccartheney/Pop-Above#readme"
+}
