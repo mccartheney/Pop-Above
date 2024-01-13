@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mccartheney/Pop-Above/issues"
   },
-  "homepage": "https://github.com/mccartheney/Pop-Above#readme"
+  "homepage": "https://github.com/mccartheney/Pop-Above#readme",
+  "type": "module"
 }
