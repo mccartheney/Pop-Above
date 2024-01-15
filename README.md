@@ -18,7 +18,7 @@ hidden pop Up
 You can install pop above with the following command
 
 ```bash
-  npm i pop_Above
+npm i pop-above
 ```
     
 ## Documentação
@@ -72,9 +72,7 @@ to activate the pop up is necessary to use the activePopUp()
 popUp.activePopUp();
 ```
 
-
-
-[Documentação](https://link-da-documentação)
+[Documentação](https://www.npmjs.com/package/pop-above)
 
 
 ## Author
@@ -84,8 +82,3 @@ Mccartheney
 - linkedIn - [Mccartheney Mendes](https://www.linkedin.com/in/mccartheney-mendes-892709292/)
 - github - [Mccartheney Mendes](https://github.com/mccartheney)
 - Frontend Mentor - [@mccartheney](https://www.frontendmentor.io/profile/mccartheney)
-
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
