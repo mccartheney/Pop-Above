@@ -21,7 +21,7 @@ You can install pop above with the following command
 npm i pop-above
 ```
     
-## Documentação
+## Documentation
 
 To add a pop up with pop above you first need to create one div, in HTML file, with position relative and a one id to use this id to localize the div with js (you can style this div however you want).
 
@@ -72,7 +72,7 @@ to activate the pop up is necessary to use the activePopUp()
 popUp.activePopUp();
 ```
 
-[Documentação](https://www.npmjs.com/package/pop-above)
+[Documentation](https://www.npmjs.com/package/pop-above)
 
 
 ## Author
