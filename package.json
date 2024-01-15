@@ -1,6 +1,6 @@
 {
   "name": "pop-above",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pop_above is a tool to create a custom popup above anything.",
   "main": "index.js",
   "scripts": {
