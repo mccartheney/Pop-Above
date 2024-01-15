@@ -6,7 +6,11 @@ That pop up can be easily styled but any way it comes with a own style.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Showing pop up
+![actived Screenshot](./images/active.png)
+
+hidden pop Up
+![not active Screenshot](./images/not%20active.png)
 
 
 ## Instalation
